@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GithubRepoViewer</string>
+
+    <string name="error_message_bad_gateway">Bad gateway</string>
+    <string name="message_internet_error">Internet connection appears to be offline</string>
+    <string name="message_no_repository_description">No description</string>
+    <string name="message_no_data">No Data. Please swipe down to refresh.  We\'ll be harder next time</string>
+    <string name="lable_repo_name">Repository name</string>
+    <string name="label_repo_programming_language">Programming language</string>
+    <string name="label_repo_description">Description</string>
+    <string name="label_no_internet">No internet connection. Please turn on internet connection and swipe down to refresh.</string>
+    <string name="error_message_unknown_error">Unknown error occurred. Please contact support team</string>
+
+</resources>
